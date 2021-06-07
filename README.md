@@ -1,4 +1,4 @@
-# http:\\ index0506.html
-Exercicio aplicando aula do curso em video
+# http:\\ index.html
+Exercicio aplicando o aprendido em aulas na internet.
 
 
